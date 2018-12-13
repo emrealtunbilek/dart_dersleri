@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum1/final_ve_const_kavramlari.dart",
+            "program": "lib/bolum2/if_else_kullanimi.dart",
             "request": "launch",
             "type": "dart"
         }
