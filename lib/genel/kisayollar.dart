@@ -11,7 +11,7 @@ main(List<String> args) {
 // CTRL + ö satırı yorum satırı yapar
 // SHIFT + ALT + A seçili blogu yorum satırı yapar
 // SHIFT + ALT + yukarı asagı okları satırı kopyalar
-    
+
 // CTRL + P dosya arar
 // CTRL + F Dosyanın içinde arama yapar
 // CTRL + ALT +F bul ve değiştir
@@ -20,9 +20,5 @@ main(List<String> args) {
 // CTRL + B Sol menuyu açar veya kapatır
 // CTRL + tab bir sonraki sekme, CTRL + SHIFT + tab bir önceki sekme
 // CTRL + K + F seçili alanı, ALT + SHIFT  + F tüm dosyayı formatlı gösterir
-// CTRL + " terminali açar kapar 
-
-
-
-
+// CTRL + " terminali açar kapar
 }

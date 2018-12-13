@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum1/main.dart",
+            "program": "lib/bolum1/hello_world.dart",
             "request": "launch",
             "type": "dart"
         }
