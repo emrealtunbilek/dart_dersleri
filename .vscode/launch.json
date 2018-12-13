@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum1/numbers_boolean_veri_turleri.dart",
+            "program": "lib/bolum1/string_literals_interpolation.dart",
             "request": "launch",
             "type": "dart"
         }
