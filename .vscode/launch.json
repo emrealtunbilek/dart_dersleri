@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum1/string_literals_interpolation.dart",
+            "program": "lib/bolum1/final_ve_const_kavramlari.dart",
             "request": "launch",
             "type": "dart"
         }
