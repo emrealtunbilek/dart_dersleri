@@ -24,6 +24,5 @@ var anahtar kelimesi variable anlamına gelir ve veri türünü belirtmek istemi
 */
 
 main(List<String> args) {
- 
 
 }
