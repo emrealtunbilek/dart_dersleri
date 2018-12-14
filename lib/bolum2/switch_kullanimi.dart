@@ -39,7 +39,7 @@ main(List<String> args) {
   }
 
   var yas=22.6;
- //double değer kullanılmıyor
+ /*double değer kullanılmıyor
   switch(yas){
 
     case 18.8:
@@ -55,7 +55,7 @@ main(List<String> args) {
     }
 
   }
-
+*/
   int sayi = 6;
   int bolum = (sayi / 10).toInt() ;
 
