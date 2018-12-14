@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum2/ternary_operator_kisa_if_kullanimi.dart",
+            "program": "lib/bolum2/switch_kullanimi.dart",
             "request": "launch",
             "type": "dart"
         }
