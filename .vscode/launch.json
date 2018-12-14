@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum2/operatorler_bolum1.dart",
+            "program": "lib/bolum2/operatorler_bolum2.dart",
             "request": "launch",
             "type": "dart"
         }
