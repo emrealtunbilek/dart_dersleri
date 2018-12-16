@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum2/tekrar_sorulari.dart",
+            "program": "lib/bolum3/fonksiyon_kavrami.dart",
             "request": "launch",
             "type": "dart"
         }
