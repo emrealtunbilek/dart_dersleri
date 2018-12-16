@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum3/optional_parametreli_fonksiyonlar.dart",
+            "program": "lib/bolum3/exception_istisna.dart",
             "request": "launch",
             "type": "dart"
         }
