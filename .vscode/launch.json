@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum3/fixed_list_kavrami.dart",
+            "program": "lib/bolum3/buyuyen_listeler.dart",
             "request": "launch",
             "type": "dart"
         }
