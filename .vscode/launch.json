@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum3/fonksiyon_kavrami.dart",
+            "program": "lib/bolum3/kisa_fonksiyon_kullanimi.dart",
             "request": "launch",
             "type": "dart"
         }
