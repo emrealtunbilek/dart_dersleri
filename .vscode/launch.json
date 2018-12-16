@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum2/for_while_dowhile_donguleri.dart",
+            "program": "lib/bolum2/tekrar_sorulari.dart",
             "request": "launch",
             "type": "dart"
         }
