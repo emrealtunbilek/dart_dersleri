@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum3/buyuyen_listeler.dart",
+            "program": "lib/bolum3/set_yapisi.dart",
             "request": "launch",
             "type": "dart"
         }
