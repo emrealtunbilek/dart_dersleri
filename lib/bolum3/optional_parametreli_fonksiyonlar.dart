@@ -1,3 +1,14 @@
+/**
+ * methodlarımıza geçtiğimiz parametrelerin isteğe bağlı olmasını yani verilse de olur verilmese de olur gibi durumlarda
+ * süslü ve köşeli parantez kullanırız.
+ * Eğer köşeli parantez [] kullanırsak bu ilgili parametrelerin methoda gönderilmesi zorunluluğunu ortadan kaldırır.
+ * Eğer süslü parantez {} kullanırsak burda da parametreler isteğe bağlıdır ama bu parametreleri belirtirken sıralama önemini
+ * kaybeder ve de parametreleri geçerken isimlerini vermek zorunda kalırız.
+ * 
+ * Ayrıca method tanımlarında parametrelere = diyerek varsayılan değerler atayabiliriz. Bu değerler sayesinde eğer kullanıcı
+ * method parametrelerini atamamışsa bu varsayılan değerler kullanılır.
+ */
+
 main(List<String> args) {
   sehirleriYazdir("Ankara", "Berlin", "New York");
   print("");
