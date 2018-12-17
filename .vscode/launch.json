@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum3/set_yapisi.dart",
+            "program": "lib/bolum3/map_yapisi.dart",
             "request": "launch",
             "type": "dart"
         }
