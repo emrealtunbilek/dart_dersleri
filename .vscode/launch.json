@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum4/ilk_sinif_ornek.dart",
+            "program": "lib/bolum4/kurucular_constructors.dart",
             "request": "launch",
             "type": "dart"
         }
