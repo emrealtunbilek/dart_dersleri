@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum3/map_yapisi.dart",
+            "program": "lib/bolum4/ilk_sinif_ornek.dart",
             "request": "launch",
             "type": "dart"
         }
