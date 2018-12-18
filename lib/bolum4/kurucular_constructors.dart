@@ -51,6 +51,7 @@ class Ogrenci {
   String adi;
   bool erkekMi;
 
+
   /*
   Ogrenci(){
     print("Ogrenci sınıfından bir nesne üretiliyor ki ben tetiklendim");
@@ -70,6 +71,7 @@ class Ogrenci {
   }
 
 
+
   Ogrenci.cinsiyetBilgisiOlmayanKurucu(this.ogrNo, this.adi){
     print("Ogrenci sınıfından bir nesne üretiliyor ki ben tetiklendim");
   }
@@ -80,6 +82,7 @@ class Ogrenci {
       this.adi = ad;
       this.erkekMi = cinsiyet;
   }
+  
 
   void dersCalis(){
 
