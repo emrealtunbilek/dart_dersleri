@@ -17,6 +17,8 @@ Kalıtımın basamakları çok uzun olmamalıdır.  Bu kötü tasarıma neden ol
 Kalıtımın Faydaları
 Daha önceden yazılmış kod parçacıkları tekrar tekrar yazılmadan başka sınıflarda kullanılabilir.  
 if, else, switch gibi kontrol ifadelerinin oolduğu sınıflar kötü tasarım örnekleridir. Bunun yerine kalıtım tercih edilmelidir.
+
+Method overriding : üst sınıftaki değişken veya methodların alt sınıf tarafından değiştirilmesidir.
  */
 
 main(List<String> args) {

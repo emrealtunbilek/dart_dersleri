@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum5/kalitima_giris.dart",
+            "program": "lib/bolum5/polimorfizm_kavrami.dart",
             "request": "launch",
             "type": "dart"
         }
