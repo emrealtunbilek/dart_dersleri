@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum4/private_degisken_kullanimi.dart",
+            "program": "lib/bolum5/kalitima_giris.dart",
             "request": "launch",
             "type": "dart"
         }

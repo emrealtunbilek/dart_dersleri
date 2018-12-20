@@ -45,6 +45,6 @@ class Ogrenci {
 
   void bilgileriYazdir() {
     print(
-        "Ogrenci numarasi : ${this.ogrNo} adi : ${this.adi} erkek mi : ${this.erkekMi}");
+        "Ogrenci numarasi : ${this._ogrNo} adi : ${this.adi} erkek mi : ${this.erkekMi}");
   }
 }
