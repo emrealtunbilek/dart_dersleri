@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum5/kalitimda_kurucular.dart",
+            "program": "lib/bolum5/interfaceler.dart",
             "request": "launch",
             "type": "dart"
         }
