@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum5/interfaceler.dart",
+            "program": "lib/bolum5/static_method_ve_degisken.dart",
             "request": "launch",
             "type": "dart"
         }
