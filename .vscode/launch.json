@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum6/higher_order_fonksiyonlar.dart",
+            "program": "lib/bolum6/lexical_closures.dart",
             "request": "launch",
             "type": "dart"
         }
