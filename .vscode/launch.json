@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum6/functional_programming.dart",
+            "program": "lib/bolum6/higher_order_fonksiyonlar.dart",
             "request": "launch",
             "type": "dart"
         }
