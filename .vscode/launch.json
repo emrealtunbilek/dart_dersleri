@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum5/static_method_ve_degisken.dart",
+            "program": "lib/bolum6/functional_programming.dart",
             "request": "launch",
             "type": "dart"
         }
