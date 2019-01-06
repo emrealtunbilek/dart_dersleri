@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/dart_extra/future_await_async.dart",
+            "program": "lib/dart_extra/asenkron_islemler_bolum2.dart",
             "request": "launch",
             "type": "dart"
         }
