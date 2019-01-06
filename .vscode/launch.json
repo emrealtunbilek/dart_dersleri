@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/bolum6/lexical_closures.dart",
+            "program": "lib/dart_extra/list_generate_ve_map.dart",
             "request": "launch",
             "type": "dart"
         }
