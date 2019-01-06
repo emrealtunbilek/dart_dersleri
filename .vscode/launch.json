@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "lib/dart_extra/list_generate_ve_map.dart",
+            "program": "lib/dart_extra/future_await_async.dart",
             "request": "launch",
             "type": "dart"
         }
